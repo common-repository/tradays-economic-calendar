@@ -1,0 +1,100 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Tradays POT\n"
+"POT-Creation-Date: 2019-03-06 04:17+0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: \n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: tradays.php\n"
+"X-Poedit-SearchPath-2: views/widget-settings.php\n"
+"X-Poedit-SearchPath-3: views/widget.php\n"
+"X-Poedit-SearchPath-4: src/block/block.js\n"
+"X-Poedit-SearchPath-5: src/block/inspector.js\n"
+"X-Poedit-SearchPath-6: inc/class.tradays.php\n"
+"X-Poedit-SearchPath-7: inc/class.widget.php\n"
+"X-Poedit-SearchPath-8: inc/class.shortcode.php\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: inc/class.widget.php:9
+msgid "Tradays Economic Calendar"
+msgstr ""
+
+#: inc/class.widget.php:10 src/block/block.js:32
+msgid "Display news releases and indicators relating to the world's largest economies"
+msgstr ""
+
+#: mce/langs.php:11
+msgid "Page Language"
+msgstr ""
+
+#: mce/langs.php:12 src/block/inspector.js:51 views/widget-settings.php:9
+msgid "Width"
+msgstr ""
+
+#: mce/langs.php:13 src/block/inspector.js:57 views/widget-settings.php:15
+msgid "Height"
+msgstr ""
+
+#: mce/langs.php:14
+msgid "Current Day"
+msgstr ""
+
+#: mce/langs.php:15
+msgid "Current Week"
+msgstr ""
+
+#: mce/langs.php:16 src/block/inspector.js:64 views/widget-settings.php:22
+msgid "Auto Size"
+msgstr ""
+
+#: mce/langs.php:17
+msgid "Insert Tradays calendar"
+msgstr ""
+
+#: mce/langs.php:18 src/block/inspector.js:46
+msgid "Tradays Settings"
+msgstr ""
+
+#: mce/langs.php:19 src/block/inspector.js:69 views/widget-settings.php:25
+msgid "Mode"
+msgstr ""
+
+#: mce/langs.php:20 src/block/inspector.js:77 views/widget-settings.php:39
+msgid "Language"
+msgstr ""
+
+#: mce/langs.php:21 src/block/inspector.js:85 views/widget-settings.php:55
+msgid "Date Format"
+msgstr ""
+
+#: src/block/block.js:31
+msgid "Tradays"
+msgstr ""
+
+#: src/block/block.js:36
+msgid "tradays"
+msgstr ""
+
+#: src/block/block.js:37
+msgid "economic calendar"
+msgstr ""
+
+#: views/widget-settings.php:3
+msgid "Title"
+msgstr ""

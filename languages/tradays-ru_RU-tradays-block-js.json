@@ -1,0 +1,63 @@
+{
+   "domain": "messages",
+   "locale_data": {
+      "messages": {
+         "": {
+            "domain": "messages",
+            "plural_forms": "nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);",
+            "lang": "ru_RU"
+         },
+         "Tradays Economic Calendar": [
+            "Экономический календарь Tradays"
+         ],
+         "Display news releases and indicators relating to the world's largest economies": [
+            "Отображает новости и индикаторы крупнейших экономик мира"
+         ],
+         "Page Language": [
+            "Язык страницы"
+         ],
+         "Width": [
+            "Ширина"
+         ],
+         "Height": [
+            "Высота"
+         ],
+         "Current Day": [
+            "Текущий день"
+         ],
+         "Current Week": [
+            "Текущая неделя"
+         ],
+         "Auto Size": [
+            "Авторазмер"
+         ],
+         "Insert Tradays calendar": [
+            "Добавить календарь Tradays"
+         ],
+         "Tradays Settings": [
+            "Настройки календаря"
+         ],
+         "Mode": [
+            "Режим"
+         ],
+         "Language": [
+            "Язык"
+         ],
+         "Date Format": [
+            "Формат даты"
+         ],
+         "Tradays": [
+            "Tradays"
+         ],
+         "tradays": [
+            "tradays"
+         ],
+         "economic calendar": [
+            "экономический календарь"
+         ],
+         "Title": [
+            "Заголовок"
+         ]
+      }
+   }
+}

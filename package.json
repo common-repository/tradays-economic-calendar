@@ -1,0 +1,18 @@
+{
+	"name": "tradays-block",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"start": "cgb-scripts start",
+		"build": "cgb-scripts build",
+		"eject": "cgb-scripts eject",
+		"po2json": "po2json ./languages/tradays-ru_RU.po ./languages/tradays-ru_RU-tradays-block-js.json -p --format jed"
+	},
+	"dependencies": {
+		"cgb-scripts": "1.15.0"
+	},
+	"devDependencies": {
+		"po2json": "^1.0.0-alpha",
+		"svg-react-loader": "^0.4.6"
+	}
+}

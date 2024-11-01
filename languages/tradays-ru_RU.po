@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tradays\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2019-03-06 04:17+0500\n"
+"PO-Revision-Date: 2019-03-19 15:24+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: inc\n"
+"X-Poedit-SearchPath-2: src/block\n"
+"X-Poedit-SearchPath-3: views\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: inc/class.widget.php:9
+msgid "Tradays Economic Calendar"
+msgstr "Экономический календарь Tradays"
+
+#: inc/class.widget.php:10 src/block/block.js:32
+msgid ""
+"Display news releases and indicators relating to the world's largest "
+"economies"
+msgstr "Отображает новости и индикаторы крупнейших экономик мира"
+
+#: mce/langs.php:11
+msgid "Page Language"
+msgstr "Язык страницы"
+
+#: mce/langs.php:12 src/block/inspector.js:51 views/widget-settings.php:9
+msgid "Width"
+msgstr "Ширина"
+
+#: mce/langs.php:13 src/block/inspector.js:57 views/widget-settings.php:15
+msgid "Height"
+msgstr "Высота"
+
+#: mce/langs.php:14
+msgid "Current Day"
+msgstr "Текущий день"
+
+#: mce/langs.php:15
+msgid "Current Week"
+msgstr "Текущая неделя"
+
+#: mce/langs.php:16 src/block/inspector.js:64 views/widget-settings.php:22
+msgid "Auto Size"
+msgstr "Авторазмер"
+
+#: mce/langs.php:17
+msgid "Insert Tradays calendar"
+msgstr "Добавить календарь Tradays"
+
+#: mce/langs.php:18 src/block/inspector.js:46
+msgid "Tradays Settings"
+msgstr "Настройки календаря"
+
+#: mce/langs.php:19 src/block/inspector.js:69 views/widget-settings.php:25
+msgid "Mode"
+msgstr "Режим"
+
+#: mce/langs.php:20 src/block/inspector.js:77 views/widget-settings.php:39
+msgid "Language"
+msgstr "Язык"
+
+#: mce/langs.php:21 src/block/inspector.js:85 views/widget-settings.php:55
+msgid "Date Format"
+msgstr "Формат даты"
+
+#: src/block/block.js:31
+msgid "Tradays"
+msgstr "Tradays"
+
+#: src/block/block.js:36
+msgid "tradays"
+msgstr "tradays"
+
+#: src/block/block.js:37
+msgid "economic calendar"
+msgstr "экономический календарь"
+
+#: views/widget-settings.php:3
+msgid "Title"
+msgstr "Заголовок"
+
+#~ msgid "Auto Size:"
+#~ msgstr "Авторазмер:"

@@ -1,0 +1,23 @@
+{
+	"langs": [
+		{ "value": "def", "label": "Page Language" },
+		{ "value": "en", "label": "English" },
+		{ "value": "ru", "label": "Русский" },
+		{ "value": "de", "label": "Deutsch" },
+		{ "value": "pt", "label": "Português" },
+		{ "value": "es", "label": "Español" },
+		{ "value": "zh", "label": "中文" },
+		{ "value": "ja", "label": "日本語" },
+		{ "value": "ar", "label": "العربية" },
+		{ "value": "tr", "label": "Türkçe" }
+	],
+	"dateformats": [
+		{ "value": "DMY", "label": "DD.MM.YYYY" },
+		{ "value": "MDY", "label": "MM.DD.YYYY" },
+		{ "value": "YMD", "label": "YYYY.MM.DD" }
+	],
+	"modes": [
+		{ "value": "1", "label": "Current Day" },
+		{ "value": "2", "label": "Current Week" }
+	]
+}
